@@ -142,7 +142,7 @@ public class OreworldDimension extends OreWorldModElements.ModElement {
 
 			@Override
 			public boolean func_230493_a_(int x, int y) {
-				return false;
+				return true;
 			}
 		};
 		DeferredWorkQueue.runLater(() -> {
