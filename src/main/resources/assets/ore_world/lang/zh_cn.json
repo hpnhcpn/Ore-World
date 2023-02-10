@@ -1,12 +1,16 @@
 {
-  "biome.ore_world.diamondbiome": "钻石群系",
   "itemGroup.taboreworldtab": "矿石世界",
-  "biome.ore_world.coalbiome": "煤炭群系",
-  "biome.ore_world.emeraldbiome": "绿宝石群系",
-  "biome.ore_world.redstonebiome": "红石群系",
-  "biome.ore_world.goldenbiome": "金群系",
+  "advancements.aworldfullofore.descr": "进入矿石世界。",
+  "biome.ore_world.emeraldbiome": "绿宝石矿石群系",
+  "biome.ore_world.redstonebiome": "红石矿石群系",
   "item.ore_world.oreworld": "矿石世界打火石",
-  "biome.ore_world.ironbiome": "铁群系",
-  "biome.ore_world.lapislazulibiome": "青金石群系",
-  "biome.ore_world.netherquartzbiome": "下界合金群系"
+  "biome.ore_world.diamondbiome": "钻石矿石群系",
+  "advancements.aworldfullofore.title": "充满矿石的世界！",
+  "biome.ore_world.coalbiome": "煤炭矿石群系",
+  "biome.ore_world.goldenbiome": "金矿石群系",
+  "biome.ore_world.netheritebiome": "下界合金矿石群系",
+  "block.ore_world.netherite_ore": "下界合金矿石",
+  "biome.ore_world.ironbiome": "铁矿石群系",
+  "biome.ore_world.lapislazulibiome": "青金石矿石群系",
+  "biome.ore_world.netherquartzbiome": "下界石英矿石群系"
 }

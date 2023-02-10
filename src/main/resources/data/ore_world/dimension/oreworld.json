@@ -7,28 +7,28 @@
       "type": "minecraft:multi_noise",
       "seed": -2500137147205298005,
       "temperature_noise": {
-        "firstOctave": -6.58,
+        "firstOctave": -6.79,
         "amplitudes": [
           2,
           2
         ]
       },
       "humidity_noise": {
-        "firstOctave": -6.58,
+        "firstOctave": -6.79,
         "amplitudes": [
           2,
           2
         ]
       },
       "altitude_noise": {
-        "firstOctave": -6.58,
+        "firstOctave": -6.79,
         "amplitudes": [
           2,
           2
         ]
       },
       "weirdness_noise": {
-        "firstOctave": -6.58,
+        "firstOctave": -6.79,
         "amplitudes": [
           2,
           2
@@ -48,8 +48,8 @@
         {
           "biome": "ore_world:emeraldbiome",
           "parameters": {
-            "temperature": 0.714285714286,
-            "humidity": -0.714285714286,
+            "temperature": 0.75,
+            "humidity": -0.75,
             "altitude": -0.75,
             "weirdness": 1.5,
             "offset": 0
@@ -58,8 +58,8 @@
         {
           "biome": "ore_world:ironbiome",
           "parameters": {
-            "temperature": 0.428571428572,
-            "humidity": -0.428571428572,
+            "temperature": 0.5,
+            "humidity": -0.5,
             "altitude": 0.75,
             "weirdness": -1.5,
             "offset": 0
@@ -68,8 +68,8 @@
         {
           "biome": "ore_world:coalbiome",
           "parameters": {
-            "temperature": 0.142857142858,
-            "humidity": -0.142857142858,
+            "temperature": 0.25,
+            "humidity": -0.25,
             "altitude": -0.75,
             "weirdness": 1.5,
             "offset": 0
@@ -78,8 +78,8 @@
         {
           "biome": "ore_world:redstonebiome",
           "parameters": {
-            "temperature": -0.142857142858,
-            "humidity": 0.142857142858,
+            "temperature": 0,
+            "humidity": 0,
             "altitude": 0.75,
             "weirdness": -1.5,
             "offset": 0
@@ -88,8 +88,8 @@
         {
           "biome": "ore_world:lapislazulibiome",
           "parameters": {
-            "temperature": -0.428571428572,
-            "humidity": 0.428571428572,
+            "temperature": -0.25,
+            "humidity": 0.25,
             "altitude": -0.75,
             "weirdness": 1.5,
             "offset": 0
@@ -98,10 +98,20 @@
         {
           "biome": "ore_world:goldenbiome",
           "parameters": {
-            "temperature": -0.714285714286,
-            "humidity": 0.714285714286,
+            "temperature": -0.5,
+            "humidity": 0.5,
             "altitude": 0.75,
             "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "ore_world:netheritebiome",
+          "parameters": {
+            "temperature": -0.75,
+            "humidity": 0.75,
+            "altitude": -0.75,
+            "weirdness": 1.5,
             "offset": 0
           }
         },
@@ -110,8 +120,8 @@
           "parameters": {
             "temperature": -1,
             "humidity": 1,
-            "altitude": -0.75,
-            "weirdness": 1.5,
+            "altitude": 0.75,
+            "weirdness": -1.5,
             "offset": 0
           }
         }

@@ -1,11 +1,15 @@
 {
-  "biome.ore_world.diamondbiome": "Diamond biome",
   "itemGroup.taboreworldtab": "Ore world ",
-  "biome.ore_world.coalbiome": "Coal biome",
+  "advancements.aworldfullofore.descr": "Enter the Ore world.",
   "biome.ore_world.emeraldbiome": "Emerald biome",
   "biome.ore_world.redstonebiome": "Redstone biome",
-  "biome.ore_world.goldenbiome": "Golden biome",
   "item.ore_world.oreworld": "Oreworld Portal Igniter",
+  "biome.ore_world.diamondbiome": "Diamond biome",
+  "advancements.aworldfullofore.title": "A world full of ore!",
+  "biome.ore_world.coalbiome": "Coal biome",
+  "biome.ore_world.goldenbiome": "Golden biome",
+  "biome.ore_world.netheritebiome": "Netherite biome",
+  "block.ore_world.netherite_ore": "Netherite Ore",
   "biome.ore_world.ironbiome": "Iron biome",
   "biome.ore_world.lapislazulibiome": "Lapis lazuli biome",
   "biome.ore_world.netherquartzbiome": "Nether quartz biome"
