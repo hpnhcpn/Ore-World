@@ -11,7 +11,7 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 
 version = '1.3'
-group = 'com.hpnhcpn.ore_world'
+group = 'com.hpnhcpn.oreworld'
 archivesBaseName = 'Ore-world 1.16.x'
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(8)
