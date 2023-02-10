@@ -26,6 +26,9 @@
       },
       {
         "value": "CUSTOM:Emeraldbiome"
+      },
+      {
+        "value": "CUSTOM:Netheritebiome"
       }
     ],
     "worldGenType": "Normal world gen",
@@ -56,7 +59,7 @@
     "igniterTab": {
       "value": "CUSTOM:Oreworldtab"
     },
-    "texture": "oreworld_portal_igniter_texture",
+    "texture": "ore_world_igniter",
     "portalTexture": "oreworld_portal_block_texture",
     "enablePortal": true
   }
